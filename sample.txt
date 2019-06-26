@@ -1,2 +1,3 @@
 Hello user1
+Hello user2
 Hello this my first repository
